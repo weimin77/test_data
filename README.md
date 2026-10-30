@@ -34,7 +34,7 @@ Middlebury Stereo 基准数据集，保留原始的 `Middlebury Stereo Datasets/
 | 2001 | 7 | 30 MB | `barn1` `barn2` `bull` `poster` `sawtooth` `tsukuba` `venus`，多视角 PPM + PGM 视差 |
 | 2003 | 4 | 44 MB | `cones` `conesF` `teddy` `teddyF` |
 | 2005 | 9 | 4.9 MB | `Art` `Books` `Computer` `Dolls` `Drumsticks` … |
-| 2006 | 20 | 11 MB | `Aloe` `Baby1`–`Baby3` `Bowling1/2` `Cloth1`–`Cloth4` … |
+| 2006 | 21 | 11 MB | `Aloe` `Baby1`–`Baby3` `Bowling1/2` `Cloth1`–`Cloth4` `Flowerpots` `Lampshade1/2` `Midd1/2` `Monopoly` `Plastic` `Rocks1/2` `Wood1/2` |
 | 2014 | 10 | 635 MB | `Adirondack` `Backpack` `Bicycle1` `Cable` `Classroom1` `Couch` `Flowers` `Jadeplant` `Mask` `Motorcycle`，均带 `-perfect` 后缀 |
 
 2014 每个场景包含（2880×1988）：
